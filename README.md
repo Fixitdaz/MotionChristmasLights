@@ -19,8 +19,7 @@ This project creates an interactive holiday display. The lights remain in a dim,
 
 ## Wiring
 
-![Wiring Diagram]([wiring_diagram.png])
-
+![Wiring Diagram]({https://github.com/Fixitdaz/MotionChristmasLights/blob/main/MotionChristmasLights/wiring_diagram.png})
 | Component | Pin | Arduino Pin |
 | :--- | :--- | :--- |
 | **LED Strip** | Data (DIN) | Pin 6 |
